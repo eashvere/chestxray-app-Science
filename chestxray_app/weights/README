@@ -1,0 +1,7 @@
+You must download the weights for this webapp to work. Download them from these github pages
+
+Put the weights in this folder
+
+resnet-101: https://gist.github.com/flyyufelix/65018873f8cb2bbe95f429c474aa1294
+
+resnet-152: https://gist.github.com/flyyufelix/7e2eafb149f72f4d38dd661882c554a6
